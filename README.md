@@ -8,4 +8,6 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 - Player with the 'X' mark starts first. The first player to place 3 marks in a vertical, horizontal, or diagonal row wins the game.
 - If all spaces are filled, the game ends in a draw.
 
+### Live
 
+Click [here](https://bardy96.github.io/TicTacToe-Game/)
